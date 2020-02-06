@@ -5,7 +5,7 @@
 ## Installation:
 
 ```
-meteor add akryum:vue-ssr
+meteor add welkinwong:vue-ssr
 ```
 
 ## Usage
