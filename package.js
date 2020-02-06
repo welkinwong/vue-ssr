@@ -2,7 +2,7 @@ Package.describe({
   name: 'welkinwong:vue-ssr',
   version: '1.0.0',
   summary: 'Render Vue server-side',
-  // git: 'https://github.com/Akryum/meteor-vue-component',
+  git: 'https://github.com/welkinwong/vue-ssr',
   documentation: 'README.md',
 });
 
